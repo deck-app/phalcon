@@ -8,8 +8,6 @@ user:
     type:
       select
     values:
-      - 6.5
-      - 7.0
       - 7.1
       - 7.2
       - 7.3
